@@ -1,0 +1,812 @@
+[
+  {
+    "name": "Japanese Polished Rice (Uruchimai, Raw)",
+    "category": "Cereals and Millets",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 342,
+    "protein": 6.1,
+    "carbs": 77.1,
+    "fat": 0.9,
+    "fiber": 0.5
+  },
+  {
+    "name": "Japanese Polished Rice (Cooked Meshi)",
+    "category": "Cereals and Millets",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 156,
+    "protein": 2.5,
+    "carbs": 35.6,
+    "fat": 0.3,
+    "fiber": 0.3
+  },
+  {
+    "name": "Japanese Brown Rice (Genmai, Raw)",
+    "category": "Cereals and Millets",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 346,
+    "protein": 6.8,
+    "carbs": 73.8,
+    "fat": 2.7,
+    "fiber": 3
+  },
+  {
+    "name": "Japanese Brown Rice (Cooked Genmai Meshi)",
+    "category": "Cereals and Millets",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 152,
+    "protein": 2.8,
+    "carbs": 34.2,
+    "fat": 1,
+    "fiber": 1.4
+  },
+  {
+    "name": "Mochi (Japanese Glutinous Rice Cake, Grilled)",
+    "category": "Cereals and Millets",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 227,
+    "protein": 4,
+    "carbs": 50.3,
+    "fat": 0.8,
+    "fiber": 0.4
+  },
+  {
+    "name": "Japanese Udon Noodles (Fresh Nama, Boiled)",
+    "category": "Cereals and Millets",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 99,
+    "protein": 2.6,
+    "carbs": 21.6,
+    "fat": 0.4,
+    "fiber": 0.8
+  },
+  {
+    "name": "Japanese Soba Noodles (Buckwheat Noodles, Boiled)",
+    "category": "Cereals and Millets",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 132,
+    "protein": 4.8,
+    "carbs": 26.4,
+    "fat": 0.7,
+    "fiber": 2
+  },
+  {
+    "name": "Japanese Somen Noodles (Boiled)",
+    "category": "Cereals and Millets",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 117,
+    "protein": 3,
+    "carbs": 25.8,
+    "fat": 0.2,
+    "fiber": 0.9
+  },
+  {
+    "name": "Japanese Ramen Noodles (Chinese-Style Noodles, Boiled)",
+    "category": "Cereals and Millets",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 133,
+    "protein": 4.9,
+    "carbs": 27.2,
+    "fat": 0.6,
+    "fiber": 1.3
+  },
+  {
+    "name": "Japanese Shokupan (Fluffy White Sandwich Bread)",
+    "category": "Baked Products",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 248,
+    "protein": 8.9,
+    "carbs": 46.4,
+    "fat": 4.2,
+    "fiber": 2.2
+  },
+  {
+    "name": "Panko (Japanese Flaky Breadcrumbs)",
+    "category": "Baked Products",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 360,
+    "protein": 12.4,
+    "carbs": 72.8,
+    "fat": 2.4,
+    "fiber": 3.8
+  },
+  {
+    "name": "Barley (Mugi, Pearled Raw)",
+    "category": "Cereals and Millets",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 334,
+    "protein": 7,
+    "carbs": 76.2,
+    "fat": 1.6,
+    "fiber": 9.6
+  },
+  {
+    "name": "Momen Tofu (Regular Japanese Cotton-Pressed Tofu)",
+    "category": "Vegetarian Curries and Paneer",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 73,
+    "protein": 7,
+    "carbs": 1.6,
+    "fat": 4.9,
+    "fiber": 0.6
+  },
+  {
+    "name": "Kinugoshi Tofu (Japanese Silken Tofu)",
+    "category": "Vegetarian Curries and Paneer",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 56,
+    "protein": 5.3,
+    "carbs": 2,
+    "fat": 3.5,
+    "fiber": 0.4
+  },
+  {
+    "name": "Yaki-Dofu (Japanese Grilled Tofu)",
+    "category": "Vegetarian Curries and Paneer",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 84,
+    "protein": 7.8,
+    "carbs": 1.3,
+    "fat": 5.4,
+    "fiber": 0.7
+  },
+  {
+    "name": "Abura-age (Japanese Deep-Fried Thin Tofu Pouch)",
+    "category": "Vegetarian Curries and Paneer",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 377,
+    "protein": 23.4,
+    "carbs": 2.7,
+    "fat": 30.6,
+    "fiber": 2.4
+  },
+  {
+    "name": "Atsu-age / Nama-age (Japanese Thick Fried Tofu)",
+    "category": "Vegetarian Curries and Paneer",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 143,
+    "protein": 10.7,
+    "carbs": 0.9,
+    "fat": 11.2,
+    "fiber": 0.5
+  },
+  {
+    "name": "Koya-Dofu (Freeze-Dried Tofu, Rehydrated Boiled)",
+    "category": "Vegetarian Curries and Paneer",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 108,
+    "protein": 9.6,
+    "carbs": 1.2,
+    "fat": 7.4,
+    "fiber": 1.8
+  },
+  {
+    "name": "Natto (Fermented Whole Soybeans)",
+    "category": "Grain Legumes and Pulses",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 190,
+    "protein": 16.5,
+    "carbs": 12.1,
+    "fat": 10,
+    "fiber": 6.7
+  },
+  {
+    "name": "Hikiwari Natto (Fermented Crushed Soybeans)",
+    "category": "Grain Legumes and Pulses",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 185,
+    "protein": 16.6,
+    "carbs": 10.6,
+    "fat": 10,
+    "fiber": 5.9
+  },
+  {
+    "name": "Edamame (Green Soybeans in Pod, Boiled)",
+    "category": "Vegetables and Sabzi",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 125,
+    "protein": 11.5,
+    "carbs": 8.9,
+    "fat": 6.1,
+    "fiber": 4
+  },
+  {
+    "name": "Okara (Soybean Pulp, Fresh Raw)",
+    "category": "Grain Legumes and Pulses",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 89,
+    "protein": 6.1,
+    "carbs": 13.8,
+    "fat": 3.6,
+    "fiber": 11.5
+  },
+  {
+    "name": "Yuba (Dried Soy Milk Skin, Raw)",
+    "category": "Grain Legumes and Pulses",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 521,
+    "protein": 50.4,
+    "carbs": 12.7,
+    "fat": 32.1,
+    "fiber": 7.1
+  },
+  {
+    "name": "Azuki Beans (Japanese Red Beans, Boiled with No Sugar)",
+    "category": "Grain Legumes and Pulses",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 134,
+    "protein": 9.8,
+    "carbs": 24.6,
+    "fat": 0.6,
+    "fiber": 8.3
+  },
+  {
+    "name": "Anko / Tsubuan (Sweetened Red Azuki Bean Paste)",
+    "category": "Indian Sweets and Mithai",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 239,
+    "protein": 5.6,
+    "carbs": 55.4,
+    "fat": 0.6,
+    "fiber": 5.7
+  },
+  {
+    "name": "Koshi-an (Smooth Sweetened Red Azuki Bean Paste)",
+    "category": "Indian Sweets and Mithai",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 251,
+    "protein": 5.4,
+    "carbs": 58.2,
+    "fat": 0.6,
+    "fiber": 4.1
+  },
+  {
+    "name": "Kinako (Roasted Soybean Flour)",
+    "category": "Grain Legumes and Pulses",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 450,
+    "protein": 36.7,
+    "carbs": 31,
+    "fat": 25.7,
+    "fiber": 18.1
+  },
+  {
+    "name": "Japanese Daikon Radish (Root, Raw)",
+    "category": "Vegetables and Sabzi",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 15,
+    "protein": 0.4,
+    "carbs": 4.1,
+    "fat": 0.1,
+    "fiber": 1.3
+  },
+  {
+    "name": "Japanese Daikon Radish (Boiled Oden Style)",
+    "category": "Vegetables and Sabzi",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 16,
+    "protein": 0.5,
+    "carbs": 3.8,
+    "fat": 0.1,
+    "fiber": 1.4
+  },
+  {
+    "name": "Kiriboshi Daikon (Sun-Dried Shredded Daikon Radish, Rehydrated Boiled)",
+    "category": "Vegetables and Sabzi",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 37,
+    "protein": 1.5,
+    "carbs": 8.5,
+    "fat": 0.1,
+    "fiber": 3.7
+  },
+  {
+    "name": "Japanese Kabocha Squash (Flesh with Skin, Boiled Nimono)",
+    "category": "Vegetables and Sabzi",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 83,
+    "protein": 1.9,
+    "carbs": 18.5,
+    "fat": 0.3,
+    "fiber": 3.5
+  },
+  {
+    "name": "Japanese Renkon / Lotus Root (Boiled)",
+    "category": "Vegetables and Sabzi",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 65,
+    "protein": 2.1,
+    "carbs": 15.5,
+    "fat": 0.1,
+    "fiber": 2.3
+  },
+  {
+    "name": "Gobo / Burdock Root (Boiled Kinpira Style)",
+    "category": "Vegetables and Sabzi",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 58,
+    "protein": 1.8,
+    "carbs": 14.5,
+    "fat": 0.1,
+    "fiber": 6.1
+  },
+  {
+    "name": "Satoimo / Taro Root (Boiled)",
+    "category": "Vegetables and Sabzi",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 67,
+    "protein": 1.5,
+    "carbs": 16.1,
+    "fat": 0.1,
+    "fiber": 2.3
+  },
+  {
+    "name": "Nagaimo / Mountain Yam (Raw Grated Tororo)",
+    "category": "Vegetables and Sabzi",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 64,
+    "protein": 2.2,
+    "carbs": 13.9,
+    "fat": 0.3,
+    "fiber": 1
+  },
+  {
+    "name": "Shiitake Mushrooms (Raw Fresh)",
+    "category": "Vegetables and Sabzi",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 25,
+    "protein": 2.8,
+    "carbs": 4.9,
+    "fat": 0.3,
+    "fiber": 4.2
+  },
+  {
+    "name": "Hoshi-Shiitake (Dried Shiitake Mushrooms, Rehydrated Boiled)",
+    "category": "Vegetables and Sabzi",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 36,
+    "protein": 3.4,
+    "carbs": 9.7,
+    "fat": 0.4,
+    "fiber": 7.2
+  },
+  {
+    "name": "Maitake Mushrooms (Grifola frondosa, Sautéed)",
+    "category": "Vegetables and Sabzi",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 30,
+    "protein": 2.4,
+    "carbs": 5.6,
+    "fat": 0.5,
+    "fiber": 3.8
+  },
+  {
+    "name": "Shimeji / Buna-Shimeji Mushrooms (Boiled)",
+    "category": "Vegetables and Sabzi",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 22,
+    "protein": 2.6,
+    "carbs": 4.8,
+    "fat": 0.4,
+    "fiber": 3.4
+  },
+  {
+    "name": "Enoki Mushrooms (Flammulina velutipes, Boiled)",
+    "category": "Vegetables and Sabzi",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 22,
+    "protein": 2.7,
+    "carbs": 5.4,
+    "fat": 0.2,
+    "fiber": 3.9
+  },
+  {
+    "name": "Eringi / King Oyster Mushroom (Grilled)",
+    "category": "Vegetables and Sabzi",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 31,
+    "protein": 3.1,
+    "carbs": 6.6,
+    "fat": 0.5,
+    "fiber": 4.3
+  },
+  {
+    "name": "Japanese Komatsuna / Mustard Spinach (Boiled Ohitashi)",
+    "category": "Green Leafy Vegetables",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 13,
+    "protein": 1.6,
+    "carbs": 1.9,
+    "fat": 0.2,
+    "fiber": 1.9
+  },
+  {
+    "name": "Japanese Mizuna (Japanese Mustard Greens, Raw)",
+    "category": "Green Leafy Vegetables",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 23,
+    "protein": 2.2,
+    "carbs": 4.2,
+    "fat": 0.1,
+    "fiber": 3
+  },
+  {
+    "name": "Shiso Leaves / Green Perilla (Raw)",
+    "category": "Green Leafy Vegetables",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 32,
+    "protein": 3.9,
+    "carbs": 7.5,
+    "fat": 0.2,
+    "fiber": 7.3
+  },
+  {
+    "name": "Japanese Negi / Long Green Onion (Cooked)",
+    "category": "Vegetables and Sabzi",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 31,
+    "protein": 1.3,
+    "carbs": 7.2,
+    "fat": 0.1,
+    "fiber": 2.2
+  },
+  {
+    "name": "Shishito Peppers (Blistered Grilled)",
+    "category": "Vegetables and Sabzi",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 27,
+    "protein": 1.8,
+    "carbs": 6.2,
+    "fat": 0.2,
+    "fiber": 2.8
+  },
+  {
+    "name": "Wasabi (Fresh Japanese Wasabia japonica Rhizome, Grated)",
+    "category": "Condiments and Spices",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 88,
+    "protein": 5.6,
+    "carbs": 18.2,
+    "fat": 0.6,
+    "fiber": 7.8
+  },
+  {
+    "name": "Ginger Root / Shoga (Fresh Grated)",
+    "category": "Condiments and Spices",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 30,
+    "protein": 0.9,
+    "carbs": 6.6,
+    "fat": 0.3,
+    "fiber": 2.1
+  },
+  {
+    "name": "Myoga / Japanese Ginger Buds (Raw)",
+    "category": "Vegetables and Sabzi",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 12,
+    "protein": 0.8,
+    "carbs": 2.6,
+    "fat": 0.1,
+    "fiber": 2.1
+  },
+  {
+    "name": "Yaki Nori (Toasted Laver Seaweed Sheets)",
+    "category": "Vegetables and Sabzi",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 188,
+    "protein": 41.4,
+    "carbs": 37.2,
+    "fat": 3.7,
+    "fiber": 36
+  },
+  {
+    "name": "Wakame Seaweed (Salted Cut, Rehydrated Boiled)",
+    "category": "Vegetables and Sabzi",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 16,
+    "protein": 1.9,
+    "carbs": 5.6,
+    "fat": 0.3,
+    "fiber": 4
+  },
+  {
+    "name": "Kombu Kelp (Dried Dashi Kelp, Raw)",
+    "category": "Vegetables and Sabzi",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 138,
+    "protein": 8.2,
+    "carbs": 55.7,
+    "fat": 1.5,
+    "fiber": 30
+  },
+  {
+    "name": "Hijiki Seaweed (Dried, Rehydrated Boiled)",
+    "category": "Vegetables and Sabzi",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 15,
+    "protein": 1.3,
+    "carbs": 5.8,
+    "fat": 0.3,
+    "fiber": 5.4
+  },
+  {
+    "name": "Mozuku Seaweed (Raw in Vinegar Sanbaizu)",
+    "category": "Vegetables and Sabzi",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 18,
+    "protein": 0.4,
+    "carbs": 4.2,
+    "fat": 0.1,
+    "fiber": 2
+  },
+  {
+    "name": "Aonori (Dried Green Seaweed Flakes)",
+    "category": "Vegetables and Sabzi",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 164,
+    "protein": 29.4,
+    "carbs": 41,
+    "fat": 5.1,
+    "fiber": 38
+  },
+  {
+    "name": "Konnyaku / Shirataki (Konjac Yam Jelly Cake)",
+    "category": "Vegetables and Sabzi",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 5,
+    "protein": 0.1,
+    "carbs": 2.3,
+    "fat": 0,
+    "fiber": 2.2
+  },
+  {
+    "name": "Japanese Pacific Salmon / Sake (Chum Salmon, Grilled Shioyaki)",
+    "category": "Fish and Seafood",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 177,
+    "protein": 25.9,
+    "carbs": 0.1,
+    "fat": 7.3,
+    "fiber": 0
+  },
+  {
+    "name": "Pacific Mackerel / Saba (Grilled Shioyaki)",
+    "category": "Fish and Seafood",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 298,
+    "protein": 20.6,
+    "carbs": 0.2,
+    "fat": 23.6,
+    "fiber": 0
+  },
+  {
+    "name": "Pacific Saury / Sanma (Grilled with Salt)",
+    "category": "Fish and Seafood",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 310,
+    "protein": 18.5,
+    "carbs": 0.1,
+    "fat": 25.6,
+    "fiber": 0
+  },
+  {
+    "name": "Japanese Horse Mackerel / Aji (Raw Sashimi)",
+    "category": "Fish and Seafood",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 121,
+    "protein": 19.7,
+    "carbs": 0.1,
+    "fat": 4.5,
+    "fiber": 0
+  },
+  {
+    "name": "Pacific Bluefin Tuna / Hon Maguro (Akami Lean Meat, Raw Sashimi)",
+    "category": "Fish and Seafood",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 115,
+    "protein": 26.4,
+    "carbs": 0.1,
+    "fat": 0.4,
+    "fiber": 0
+  },
+  {
+    "name": "Pacific Bluefin Tuna / Chu-Toro (Medium Fatty Belly, Raw)",
+    "category": "Fish and Seafood",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 230,
+    "protein": 21.4,
+    "carbs": 0.1,
+    "fat": 15,
+    "fiber": 0
+  },
+  {
+    "name": "Pacific Bluefin Tuna / O-Toro (Fatty Belly, Raw)",
+    "category": "Fish and Seafood",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 344,
+    "protein": 20.1,
+    "carbs": 0.1,
+    "fat": 28.3,
+    "fiber": 0
+  },
+  {
+    "name": "Japanese Amberjack / Buri (Winter Yellowtail, Teriyaki Grilled)",
+    "category": "Fish and Seafood",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 242,
+    "protein": 22.8,
+    "carbs": 4.2,
+    "fat": 14.6,
+    "fiber": 0
+  },
+  {
+    "name": "Japanese Sea Bream / Madai (Raw Sashimi)",
+    "category": "Fish and Seafood",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 142,
+    "protein": 20.6,
+    "carbs": 0.1,
+    "fat": 5.8,
+    "fiber": 0
+  },
+  {
+    "name": "Japanese Flounder / Hirame (Raw Sashimi)",
+    "category": "Fish and Seafood",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 103,
+    "protein": 21.6,
+    "carbs": 0.1,
+    "fat": 1.3,
+    "fiber": 0
+  },
+  {
+    "name": "Unagi / Japanese Freshwater Eel (Kabayaki Grilled with Sauce)",
+    "category": "Fish and Seafood",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 293,
+    "protein": 23,
+    "carbs": 3.1,
+    "fat": 21,
+    "fiber": 0
+  },
+  {
+    "name": "Anago / Saltwater Conger Eel (Simmered Nimono)",
+    "category": "Fish and Seafood",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 161,
+    "protein": 17.3,
+    "carbs": 4.5,
+    "fat": 8.2,
+    "fiber": 0
+  },
+  {
+    "name": "Japanese Flying Squid / Surume Ika (Raw Sashimi)",
+    "category": "Fish and Seafood",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 88,
+    "protein": 17.9,
+    "carbs": 0.1,
+    "fat": 1.2,
+    "fiber": 0
+  },
+  {
+    "name": "Octopus / Tako (Boiled)",
+    "category": "Fish and Seafood",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 99,
+    "protein": 21.7,
+    "carbs": 0.1,
+    "fat": 0.7,
+    "fiber": 0
+  },
+  {
+    "name": "Botan Ebi (Sweet Japanese Spot Prawn, Raw)",
+    "category": "Fish and Seafood",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 91,
+    "protein": 19.8,
+    "carbs": 0.1,
+    "fat": 0.6,
+    "fiber": 0
+  },
+  {
+    "name": "Hotate / Japanese Scallop (Raw Adductor Muscle)",
+    "category": "Fish and Seafood",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 88,
+    "protein": 16.9,
+    "carbs": 3.5,
+    "fat": 0.3,
+    "fiber": 0
+  },
+  {
+    "name": "Uni / Sea Urchin Roe (Fresh Raw)",
+    "category": "Fish and Seafood",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 120,
+    "protein": 16,
+    "carbs": 3.3,
+    "fat": 4.8,
+    "fiber": 0
+  },
+  {
+    "name": "Ikura (Japanese Salmon Caviar Roe, Cured in Soy Sauce Shoyuzuke)",
+    "category": "Fish and Seafood",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 247,
+    "protein": 32.1,
+    "carbs": 2.1,
+    "fat": 12.5,
+    "fiber": 0
+  },
+  {
+    "name": "Tobiko (Flying Fish Roe, Seasoned)",
+    "category": "Fish and Seafood",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 140,
+    "protein": 22.4,
+    "carbs": 4.2,
+    "fat": 3.6,
+    "fiber": 0
+  },
+  {
+    "name": "Katsuobushi (Dried Bonito Shavings Flakes)",
+    "category": "Fish and Seafood",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 356,
+    "protein": 77.1,
+    "carbs": 0.8,
+    "fat": 2.9,
+    "fiber": 0
+  },
+  {
+    "name": "Kamaboko (Japanese Steamed Cured Fish Cake)",
+    "category": "Fish and Seafood",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 95,
+    "protein": 12,
+    "carbs": 9.7,
+    "fat": 0.9,
+    "fiber": 0
+  },
+  {
+    "name": "Chikuwa (Japanese Grilled Tubular Fish Cake)",
+    "category": "Fish and Seafood",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 121,
+    "protein": 12.2,
+    "carbs": 13.6,
+    "fat": 2,
+    "fiber": 0
+  },
+  {
+    "name": "Hanpen (Japanese Fluffy White Marshmallow Fish Cake)",
+    "category": "Fish and Seafood",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 94,
+    "protein": 9.9,
+    "carbs": 11.8,
+    "fat": 1,
+    "fiber": 0
+  },
+  {
+    "name": "Satsuma-age (Japanese Fried Fish Cake)",
+    "category": "Fish and Seafood",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 139,
+    "protein": 12.7,
+    "carbs": 13.9,
+    "fat": 3.7,
+    "fiber": 0
+  },
+  {
+    "name": "Shirasu / Kamaage Shirasu (Boiled Whitebait Anchovy Fry)",
+    "category": "Fish and Seafood",
+    "portion_description": "1 standard serving (100g)",
+    "calories": 113,
+    "protein": 23.1,
+    "carbs": 0.2,
+    "fat": 1.6,
+    "fiber": 0
+  }
+]

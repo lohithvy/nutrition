@@ -1,0 +1,56 @@
+{
+  "expo": {
+    "name": "NutriFlow",
+    "slug": "nutriflow",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F8FAFC"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.nutriflow.app",
+      "infoPlist": {
+        "NSCameraUsageDescription": "NutriFlow uses your camera to scan food plates and product barcodes for instant nutritional analysis.",
+        "NSPhotoLibraryUsageDescription": "NutriFlow uses your photo library to select custom profile photos and upload meal pictures."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#047857"
+      },
+      "package": "com.nutriflow.app",
+      "permissions": [
+        "CAMERA",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "bundler": "metro"
+    },
+    "plugins": [
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Allow NutriFlow to use your camera for AI food recognition and barcode scanning."
+        }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Allow NutriFlow to access your photos for profile pictures."
+        }
+      ]
+    ]
+  }
+}

@@ -1,0 +1,479 @@
+[
+  {
+    "name": "Cowpeas / Black-Eyed Peas (Vigna unguiculata, Mature Seeds Boiled)",
+    "calories": 116,
+    "protein": 7.7,
+    "carbs": 20.8,
+    "fat": 0.5,
+    "fiber": 6.5,
+    "cat": "Grain Legumes and Pulses"
+  },
+  {
+    "name": "Pigeon Peas (Cajanus cajan, Dried Seeds Boiled)",
+    "calories": 121,
+    "protein": 7.2,
+    "carbs": 22.4,
+    "fat": 0.6,
+    "fiber": 7,
+    "cat": "Grain Legumes and Pulses"
+  },
+  {
+    "name": "Bambara Groundnut (Vigna subterranea, Mature Seeds Boiled)",
+    "calories": 154,
+    "protein": 8.9,
+    "carbs": 25.8,
+    "fat": 2.1,
+    "fiber": 5.6,
+    "cat": "Grain Legumes and Pulses"
+  },
+  {
+    "name": "Lablab Bean / Hyacinth Bean (Lablab purpureus, Boiled)",
+    "calories": 118,
+    "protein": 7.8,
+    "carbs": 21.2,
+    "fat": 0.4,
+    "fiber": 6.8,
+    "cat": "Grain Legumes and Pulses"
+  },
+  {
+    "name": "African Yam Bean (Sphenostylis stenocarpa, Boiled Seeds)",
+    "calories": 132,
+    "protein": 8.4,
+    "carbs": 23.6,
+    "fat": 0.8,
+    "fiber": 6.2,
+    "cat": "Grain Legumes and Pulses"
+  },
+  {
+    "name": "Mung Bean (Vigna radiata, Whole Seeds Boiled)",
+    "calories": 105,
+    "protein": 7,
+    "carbs": 19.2,
+    "fat": 0.4,
+    "fiber": 7.6,
+    "cat": "Grain Legumes and Pulses"
+  },
+  {
+    "name": "Sorghum Grain (Sorghum bicolor, Whole Grain Boiled Porridge)",
+    "calories": 112,
+    "protein": 2.8,
+    "carbs": 24.6,
+    "fat": 0.8,
+    "fiber": 2.3,
+    "cat": "Cereals and Millets"
+  },
+  {
+    "name": "Pearl Millet Grain (Pennisetum glaucum, Boiled Porridge)",
+    "calories": 119,
+    "protein": 3.5,
+    "carbs": 23.4,
+    "fat": 1.4,
+    "fiber": 2.8,
+    "cat": "Cereals and Millets"
+  },
+  {
+    "name": "Finger Millet / Eleusine coracana (Ugali / Porridge)",
+    "calories": 114,
+    "protein": 2.4,
+    "carbs": 25.1,
+    "fat": 0.5,
+    "fiber": 3.2,
+    "cat": "Cereals and Millets"
+  },
+  {
+    "name": "Fonio Grain (Digitaria exilis, Steamed Cooked Couscous Style)",
+    "calories": 128,
+    "protein": 2.9,
+    "carbs": 27.6,
+    "fat": 0.6,
+    "fiber": 2.1,
+    "cat": "Cereals and Millets"
+  },
+  {
+    "name": "Teff Grain (Eragrostis tef, Cooked Injera Style)",
+    "calories": 101,
+    "protein": 3.9,
+    "carbs": 20,
+    "fat": 0.6,
+    "fiber": 2.8,
+    "cat": "Cereals and Millets"
+  },
+  {
+    "name": "Antarctic Krill Meat (Euphausia superba, Raw)",
+    "calories": 86,
+    "protein": 15.4,
+    "carbs": 0.6,
+    "fat": 2.4,
+    "fiber": 0,
+    "cat": "Fish and Seafood"
+  },
+  {
+    "name": "Nile Tilapia (Oreochromis niloticus, Steamed Flesh)",
+    "calories": 96,
+    "protein": 20.1,
+    "carbs": 0,
+    "fat": 1.7,
+    "fiber": 0,
+    "cat": "Fish and Seafood"
+  },
+  {
+    "name": "African Catfish (Clarias gariepinus, Baked Fillet)",
+    "calories": 118,
+    "protein": 19.8,
+    "carbs": 0,
+    "fat": 4.2,
+    "fiber": 0,
+    "cat": "Fish and Seafood"
+  },
+  {
+    "name": "Lake Victoria Nile Perch (Lates niloticus, Grilled Fillet)",
+    "calories": 128,
+    "protein": 22.4,
+    "carbs": 0,
+    "fat": 4.2,
+    "fiber": 0,
+    "cat": "Fish and Seafood"
+  },
+  {
+    "name": "Lake Tanganyika Sardine / Dagaa / Mukene (Rastrineobola argentea, Sun-Dried)",
+    "calories": 288,
+    "protein": 58.4,
+    "carbs": 0,
+    "fat": 5.6,
+    "fiber": 0,
+    "cat": "Fish and Seafood"
+  },
+  {
+    "name": "Moringa Leaves (Moringa oleifera, Fresh Raw Leaves)",
+    "calories": 64,
+    "protein": 9.4,
+    "carbs": 8.3,
+    "fat": 1.4,
+    "fiber": 2,
+    "cat": "Green Leafy Vegetables"
+  },
+  {
+    "name": "Moringa Leaf Powder (Dried Pure Leaves)",
+    "calories": 320,
+    "protein": 27.1,
+    "carbs": 38.2,
+    "fat": 6,
+    "fiber": 19.2,
+    "cat": "Green Leafy Vegetables"
+  },
+  {
+    "name": "Baobab Fruit Pulp (Adansonia digitata, Dried Raw Powder)",
+    "calories": 239,
+    "protein": 2.3,
+    "carbs": 76.2,
+    "fat": 0.3,
+    "fiber": 44,
+    "cat": "Fruits and Fruit Juices"
+  },
+  {
+    "name": "African Shea Butter Tree Nut Kernel (Vitellaria paradoxa, Raw)",
+    "calories": 590,
+    "protein": 7.2,
+    "carbs": 24.8,
+    "fat": 52.6,
+    "fiber": 11.4,
+    "cat": "Nuts and Seeds"
+  },
+  {
+    "name": "African Breadfruit (Treculia africana, Boiled Seeds)",
+    "calories": 218,
+    "protein": 12.8,
+    "carbs": 36.4,
+    "fat": 3.2,
+    "fiber": 6.4,
+    "cat": "Vegetables and Sabzi"
+  },
+  {
+    "name": "Kenyan Ugali (Cooked Stiff White Maize Meal)",
+    "calories": 118,
+    "protein": 2.6,
+    "carbs": 25.4,
+    "fat": 0.5,
+    "fiber": 1.8,
+    "cat": "Rice and Grain Dishes"
+  },
+  {
+    "name": "Sukuma Wiki (Kenyan Sautéed Collard Greens with Tomato & Onion)",
+    "calories": 58,
+    "protein": 2.8,
+    "carbs": 6.4,
+    "fat": 2.6,
+    "fiber": 3.4,
+    "cat": "Green Leafy Vegetables"
+  },
+  {
+    "name": "Nyama Choma (Kenyan Charcoal-Roasted Goat Meat)",
+    "calories": 218,
+    "protein": 27.4,
+    "carbs": 0,
+    "fat": 12.2,
+    "fiber": 0,
+    "cat": "Meat and Poultry"
+  },
+  {
+    "name": "Githeri (Kenyan Stewed Maize and Red Kidney Beans)",
+    "calories": 146,
+    "protein": 6.8,
+    "carbs": 25.6,
+    "fat": 1.8,
+    "fiber": 6.4,
+    "cat": "Grain Legumes and Pulses"
+  },
+  {
+    "name": "Irio / Mukimo (Kenyan Mashed Potatoes with Corn, Peas & Greens)",
+    "calories": 114,
+    "protein": 3.8,
+    "carbs": 22.8,
+    "fat": 1.2,
+    "fiber": 3.8,
+    "cat": "Vegetables and Sabzi"
+  },
+  {
+    "name": "Kenyan Chapati (Pan-Fried Layered Wheat Flatbread)",
+    "calories": 308,
+    "protein": 7.8,
+    "carbs": 48.2,
+    "fat": 9.8,
+    "fiber": 5.6,
+    "cat": "Roti and Indian Breads"
+  },
+  {
+    "name": "Mandazi / Mahamri (Swahili Cardamom Fried Doughnut)",
+    "calories": 342,
+    "protein": 6.4,
+    "carbs": 52.8,
+    "fat": 12.4,
+    "fiber": 2.1,
+    "cat": "Baked Products"
+  },
+  {
+    "name": "Kachumbari (East African Tomato, Onion & Chili Salad)",
+    "calories": 32,
+    "protein": 1.1,
+    "carbs": 6.8,
+    "fat": 0.3,
+    "fiber": 1.8,
+    "cat": "Vegetables and Sabzi"
+  },
+  {
+    "name": "Matooke (Ugandan Steamed Green Banana Mash)",
+    "calories": 122,
+    "protein": 1.3,
+    "carbs": 29.6,
+    "fat": 0.3,
+    "fiber": 2.3,
+    "cat": "Vegetables and Sabzi"
+  },
+  {
+    "name": "Ugandan Rolex (Street Food Rolled Chapati with Egg Omelette & Tomato)",
+    "calories": 246,
+    "protein": 9.8,
+    "carbs": 28.4,
+    "fat": 10.8,
+    "fiber": 2.4,
+    "cat": "Breakfast foods"
+  },
+  {
+    "name": "Chicken Luwombo (Ugandan Chicken Steamed in Banana Leaves with Peanut Sauce)",
+    "calories": 184,
+    "protein": 17.2,
+    "carbs": 4.8,
+    "fat": 10.8,
+    "fiber": 1.6,
+    "cat": "Chicken and Poultry"
+  },
+  {
+    "name": "Ugandan Groundnut Paste / G-Nut Sauce (Simmered Peanut Paste)",
+    "calories": 286,
+    "protein": 12.8,
+    "carbs": 11.4,
+    "fat": 22.6,
+    "fiber": 4.2,
+    "cat": "Grain Legumes and Pulses"
+  },
+  {
+    "name": "Tunisian Couscous with Lamb and Chickpeas",
+    "calories": 168,
+    "protein": 9.2,
+    "carbs": 22.4,
+    "fat": 4.8,
+    "fiber": 3.1,
+    "cat": "Meat and Poultry"
+  },
+  {
+    "name": "Shakshuka (Tunisian Poached Eggs in Spiced Tomato Pepper Gravy)",
+    "calories": 112,
+    "protein": 6.4,
+    "carbs": 6.2,
+    "fat": 7.2,
+    "fiber": 2.1,
+    "cat": "Egg Dishes"
+  },
+  {
+    "name": "Lablabi (Tunisian Cumin Chickpea Soup with Olive Oil)",
+    "calories": 142,
+    "protein": 6.8,
+    "carbs": 21.6,
+    "fat": 3.4,
+    "fiber": 5.6,
+    "cat": "Dal and Lentil Dishes"
+  },
+  {
+    "name": "Tunisian Harissa Paste (Pureed Red Chili with Garlic & Olive Oil)",
+    "calories": 118,
+    "protein": 3.2,
+    "carbs": 12.4,
+    "fat": 6.2,
+    "fiber": 4.8,
+    "cat": "Condiments and Spices"
+  },
+  {
+    "name": "Brik à l’Oeuf (Tunisian Crispy Pastry Pocket with Egg & Tuna)",
+    "calories": 254,
+    "protein": 13.8,
+    "carbs": 18.2,
+    "fat": 14.6,
+    "fiber": 1.2,
+    "cat": "Snacks and Chaat"
+  },
+  {
+    "name": "Makroudh (North African Semolina Date Pastry with Honey)",
+    "calories": 386,
+    "protein": 4.6,
+    "carbs": 68.4,
+    "fat": 11.2,
+    "fiber": 3.6,
+    "cat": "Indian Sweets and Mithai"
+  },
+  {
+    "name": "Phở Bò (Vietnamese Beef Noodle Broth Soup)",
+    "calories": 92,
+    "protein": 6.8,
+    "carbs": 12.4,
+    "fat": 1.8,
+    "fiber": 0.8,
+    "cat": "Meat and Poultry"
+  },
+  {
+    "name": "Phở Gà (Vietnamese Chicken Noodle Soup)",
+    "calories": 86,
+    "protein": 6.4,
+    "carbs": 12.2,
+    "fat": 1.4,
+    "fiber": 0.7,
+    "cat": "Chicken and Poultry"
+  },
+  {
+    "name": "Bánh Mì Thịt (Vietnamese Baguette with Pork & Pickled Vegetables)",
+    "calories": 248,
+    "protein": 11.4,
+    "carbs": 29.8,
+    "fat": 9.4,
+    "fiber": 2.1,
+    "cat": "Meat and Poultry"
+  },
+  {
+    "name": "Gỏi Cuốn (Vietnamese Fresh Spring Rolls with Shrimp & Pork)",
+    "calories": 124,
+    "protein": 7.8,
+    "carbs": 19.4,
+    "fat": 1.8,
+    "fiber": 1.2,
+    "cat": "Snacks and Chaat"
+  },
+  {
+    "name": "Bún Chả (Hanoi Grilled Pork Patties with Rice Vermicelli)",
+    "calories": 168,
+    "protein": 11.8,
+    "carbs": 18.2,
+    "fat": 5.4,
+    "fiber": 1.4,
+    "cat": "Meat and Poultry"
+  },
+  {
+    "name": "Vietnamese Iced Milk Coffee / Cà Phê Sữa Đá",
+    "calories": 84,
+    "protein": 2.1,
+    "carbs": 14.8,
+    "fat": 1.9,
+    "fiber": 0,
+    "cat": "Dairy and Beverages"
+  },
+  {
+    "name": "Chicken and Pork Adobo (Filipino Braised Stew in Soy & Vinegar)",
+    "calories": 198,
+    "protein": 19.4,
+    "carbs": 3.6,
+    "fat": 11.8,
+    "fiber": 0.4,
+    "cat": "Meat and Poultry"
+  },
+  {
+    "name": "Sinigang na Baboy (Filipino Tamarind Broth with Pork & Kangkong)",
+    "calories": 114,
+    "protein": 10.8,
+    "carbs": 3.8,
+    "fat": 6.2,
+    "fiber": 1.4,
+    "cat": "Meat and Poultry"
+  },
+  {
+    "name": "Kare-Kare (Filipino Beef Stew in Savory Peanut Sauce with Vegetables)",
+    "calories": 218,
+    "protein": 16.4,
+    "carbs": 6.8,
+    "fat": 14.2,
+    "fiber": 2.1,
+    "cat": "Meat and Poultry"
+  },
+  {
+    "name": "Pancit Bihon Guisado (Filipino Stir-Fried Rice Vermicelli with Meat & Veggies)",
+    "calories": 164,
+    "protein": 7.2,
+    "carbs": 24.8,
+    "fat": 4.2,
+    "fiber": 1.8,
+    "cat": "Rice and Grain Dishes"
+  },
+  {
+    "name": "Lumpia Shanghai (Filipino Fried Crispy Pork Spring Rolls)",
+    "calories": 284,
+    "protein": 12.6,
+    "carbs": 21.4,
+    "fat": 16.8,
+    "fiber": 1.1,
+    "cat": "Snacks and Chaat"
+  },
+  {
+    "name": "Bangus / Philippine Milkfish (Fried Marinated Fillet)",
+    "calories": 198,
+    "protein": 24.2,
+    "carbs": 1.2,
+    "fat": 10.8,
+    "fiber": 0,
+    "cat": "Fish and Seafood"
+  },
+  {
+    "name": "Sizzling Pork Sisig (Filipino Diced Pork Jowl with Onion & Calamansi)",
+    "calories": 278,
+    "protein": 18.6,
+    "carbs": 2.8,
+    "fat": 21.4,
+    "fiber": 0.6,
+    "cat": "Meat and Poultry"
+  },
+  {
+    "name": "Halo-Halo (Filipino Shaved Ice Dessert with Beans, Ube & Leche Flan)",
+    "calories": 154,
+    "protein": 3.4,
+    "carbs": 28.6,
+    "fat": 3.1,
+    "fiber": 2.2,
+    "cat": "Indian Sweets and Mithai"
+  }
+]

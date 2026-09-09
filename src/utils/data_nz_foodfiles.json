@@ -1,0 +1,218 @@
+[
+  {
+    "name": "New Zealand Green Lipped Mussel (Perna canaliculus, Steamed)",
+    "calories": 105,
+    "protein": 18.8,
+    "carbs": 3.4,
+    "fat": 1.8,
+    "fiber": 0,
+    "cat": "Fish and Seafood"
+  },
+  {
+    "name": "New Zealand Hoki Fillet (Macruronus novaezelandiae, Baked)",
+    "calories": 88,
+    "protein": 19.2,
+    "carbs": 0,
+    "fat": 1.2,
+    "fiber": 0,
+    "cat": "Fish and Seafood"
+  },
+  {
+    "name": "New Zealand King Salmon (Oncorhynchus tshawytscha, Baked)",
+    "calories": 216,
+    "protein": 22.8,
+    "carbs": 0,
+    "fat": 13.9,
+    "fiber": 0,
+    "cat": "Fish and Seafood"
+  },
+  {
+    "name": "New Zealand Tarakihi Fillet (Nemadactylus macropterus, Steamed)",
+    "calories": 92,
+    "protein": 20.4,
+    "carbs": 0,
+    "fat": 0.9,
+    "fiber": 0,
+    "cat": "Fish and Seafood"
+  },
+  {
+    "name": "New Zealand Snapper Fillet (Chrysophrys auratus, Baked)",
+    "calories": 104,
+    "protein": 21.6,
+    "carbs": 0,
+    "fat": 1.8,
+    "fiber": 0,
+    "cat": "Fish and Seafood"
+  },
+  {
+    "name": "New Zealand Trevally (Pseudocaranx dentex, Baked)",
+    "calories": 112,
+    "protein": 22.1,
+    "carbs": 0,
+    "fat": 2.4,
+    "fiber": 0,
+    "cat": "Fish and Seafood"
+  },
+  {
+    "name": "New Zealand Blue Cod (Parapercis colias, Baked Fillet)",
+    "calories": 86,
+    "protein": 19.4,
+    "carbs": 0,
+    "fat": 0.8,
+    "fiber": 0,
+    "cat": "Fish and Seafood"
+  },
+  {
+    "name": "New Zealand Paua / Abalone (Haliotis iris, Steamed Flesh)",
+    "calories": 105,
+    "protein": 17.1,
+    "carbs": 6,
+    "fat": 0.8,
+    "fiber": 0,
+    "cat": "Fish and Seafood"
+  },
+  {
+    "name": "New Zealand Bluff Oyster (Tiostrea chilensis, Raw)",
+    "calories": 68,
+    "protein": 9,
+    "carbs": 3.8,
+    "fat": 1.8,
+    "fiber": 0,
+    "cat": "Fish and Seafood"
+  },
+  {
+    "name": "New Zealand Farmed Venison (Cervus elaphus, Lean Roast Tenderloin)",
+    "calories": 120,
+    "protein": 25.4,
+    "carbs": 0,
+    "fat": 1.9,
+    "fiber": 0,
+    "cat": "Meat and Poultry"
+  },
+  {
+    "name": "New Zealand Grass-Fed Lamb Chop (Lean Meat Only, Grilled)",
+    "calories": 194,
+    "protein": 28.2,
+    "carbs": 0,
+    "fat": 8.8,
+    "fiber": 0,
+    "cat": "Meat and Poultry"
+  },
+  {
+    "name": "New Zealand Grass-Fed Beef Sirloin Steak (Lean, Grilled)",
+    "calories": 182,
+    "protein": 29.1,
+    "carbs": 0,
+    "fat": 7.2,
+    "fiber": 0,
+    "cat": "Meat and Poultry"
+  },
+  {
+    "name": "New Zealand Red Kumara (Ipomoea batatas, Baked Flesh with Skin)",
+    "calories": 108,
+    "protein": 1.6,
+    "carbs": 24.2,
+    "fat": 0.3,
+    "fiber": 3.8,
+    "cat": "Vegetables and Sabzi"
+  },
+  {
+    "name": "New Zealand Gold Kumara (Sweet Potato, Baked)",
+    "calories": 102,
+    "protein": 1.5,
+    "carbs": 22.8,
+    "fat": 0.2,
+    "fiber": 3.2,
+    "cat": "Vegetables and Sabzi"
+  },
+  {
+    "name": "New Zealand Orange Kumara / Beauregard (Baked)",
+    "calories": 96,
+    "protein": 1.4,
+    "carbs": 21.4,
+    "fat": 0.2,
+    "fiber": 3,
+    "cat": "Vegetables and Sabzi"
+  },
+  {
+    "name": "Zespri SunGold Kiwifruit (Actinidia chinensis, Raw Flesh)",
+    "calories": 63,
+    "protein": 1,
+    "carbs": 14.2,
+    "fat": 0.3,
+    "fiber": 1.4,
+    "cat": "Fruits and Fruit Juices"
+  },
+  {
+    "name": "Zespri Green Kiwifruit (Actinidia deliciosa, Raw Flesh)",
+    "calories": 61,
+    "protein": 1.1,
+    "carbs": 13.8,
+    "fat": 0.5,
+    "fiber": 3,
+    "cat": "Fruits and Fruit Juices"
+  },
+  {
+    "name": "New Zealand Feijoa (Acca sellowiana, Raw Flesh)",
+    "calories": 55,
+    "protein": 0.6,
+    "carbs": 10.8,
+    "fat": 0.6,
+    "fiber": 6.4,
+    "cat": "Fruits and Fruit Juices"
+  },
+  {
+    "name": "New Zealand Tamarillo / Tree Tomato (Raw Flesh)",
+    "calories": 42,
+    "protein": 1.5,
+    "carbs": 7.8,
+    "fat": 0.3,
+    "fiber": 3.3,
+    "cat": "Fruits and Fruit Juices"
+  },
+  {
+    "name": "New Zealand Boysenberry (Raw Fresh)",
+    "calories": 50,
+    "protein": 1.1,
+    "carbs": 9.6,
+    "fat": 0.3,
+    "fiber": 5.3,
+    "cat": "Fruits and Fruit Juices"
+  },
+  {
+    "name": "New Zealand Blackcurrant (Ribes nigrum, Fresh Raw)",
+    "calories": 63,
+    "protein": 1.4,
+    "carbs": 13.8,
+    "fat": 0.4,
+    "fiber": 6.8,
+    "cat": "Fruits and Fruit Juices"
+  },
+  {
+    "name": "New Zealand Manuka Honey (Pure UMF Monofloral Honey)",
+    "calories": 328,
+    "protein": 0.3,
+    "carbs": 81.4,
+    "fat": 0,
+    "fiber": 0.2,
+    "cat": "Indian Sweets and Mithai"
+  },
+  {
+    "name": "New Zealand Cheddar Cheese (Traditional Tasty Vintage Cheddar)",
+    "calories": 416,
+    "protein": 25.4,
+    "carbs": 0.1,
+    "fat": 35,
+    "fiber": 0,
+    "cat": "Dairy and Beverages"
+  },
+  {
+    "name": "New Zealand Butter (Pure Creamery Salted Grass-Fed Butter)",
+    "calories": 738,
+    "protein": 0.6,
+    "carbs": 0.6,
+    "fat": 82,
+    "fiber": 0,
+    "cat": "Oils and Fats"
+  }
+]
